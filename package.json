@@ -1,0 +1,9 @@
+{
+  "name": "PMA",
+  "version": "1.0.0",
+  "description": "Pakistan Medical Association static website",
+  "main": "index.js",
+  "author": "Abdul Rafay Shaikh",
+  "license": "MIT",
+  "private": true
+}
