@@ -1,9 +1,17 @@
 {
-  "name": "PMA",
-  "version": "1.0.0",
-  "description": "Pakistan Medical Association static website",
-  "main": "index.js",
-  "author": "Abdul Rafay Shaikh",
-  "license": "MIT",
-  "private": true
+	"name": "PMA",
+	"version": "1.0.0",
+	"description": "Pakistan Medical Association static website",
+	"main": "index.js",
+	"author": "Abdul Rafay Shaikh",
+	"license": "MIT",
+	"private": true,
+	"dependencies": {
+		"bootstrap": "^4.4.1",
+		"browser-sync": "^2.26.7",
+		"del": "^5.1.0",
+		"gulp": "^4.0.2",
+		"gulp-sass": "^4.0.2",
+		"gulp-sourcemaps": "^2.6.5"
+	}
 }
