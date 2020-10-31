@@ -1,17 +1,19 @@
 {
-	"name": "PMA",
-	"version": "1.0.0",
-	"description": "Pakistan Medical Association static website",
-	"main": "index.js",
-	"author": "Abdul Rafay Shaikh",
-	"license": "MIT",
-	"private": true,
-	"dependencies": {
-		"bootstrap": "^4.4.1",
-		"browser-sync": "^2.26.7",
-		"del": "^5.1.0",
-		"gulp": "^4.0.2",
-		"gulp-sass": "^4.0.2",
-		"gulp-sourcemaps": "^2.6.5"
-	}
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Gulp 4 bootstrap starter",
+  "main": "index.html",
+  "author": "Abdul Rafay Shaikh",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "browser-sync": "^2.26.7",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
 }
